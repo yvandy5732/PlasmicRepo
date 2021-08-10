@@ -1,0 +1,8 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 238px;
+  height: 56px;
+  background: url("./images/sliderPng2.png") 0% 0% / 100% 100% repeat;
+}

@@ -1,0 +1,135 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "aFHTma5a2mQLN8unP5zrW8",
+      "projectName": "plasmic_project",
+      "version": "latest",
+      "cssFilePath": "plasmic/plasmic_project/plasmic_plasmic_project.module.css",
+      "components": [
+        {
+          "id": "e8QGMoWap5",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "aFHTma5a2mQLN8unP5zrW8",
+          "renderModuleFilePath": "plasmic/plasmic_project/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/plasmic_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "O4yp26B4kR",
+          "name": "MyButton",
+          "type": "managed",
+          "projectId": "aFHTma5a2mQLN8unP5zrW8",
+          "renderModuleFilePath": "plasmic/plasmic_project/PlasmicMyButton.tsx",
+          "importSpec": {
+            "modulePath": "MyButton.tsx"
+          },
+          "cssFilePath": "plasmic/plasmic_project/PlasmicMyButton.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "1DTknJ06MB",
+          "name": "MySlider",
+          "type": "managed",
+          "projectId": "aFHTma5a2mQLN8unP5zrW8",
+          "renderModuleFilePath": "plasmic/plasmic_project/PlasmicMySlider.tsx",
+          "importSpec": {
+            "modulePath": "MySlider.tsx"
+          },
+          "cssFilePath": "plasmic/plasmic_project/PlasmicMySlider.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        }
+      ],
+      "icons": [],
+      "images": [
+        {
+          "id": "tcVLIZhVv",
+          "name": "button.PNG",
+          "filePath": "plasmic/plasmic_project/images/buttonPng.png"
+        },
+        {
+          "id": "5nvLSjX6T",
+          "name": "button.PNG 2",
+          "filePath": "plasmic/plasmic_project/images/buttonPng2.png"
+        },
+        {
+          "id": "xNht8m1yA",
+          "name": "slider.PNG",
+          "filePath": "plasmic/plasmic_project/images/sliderPng.png"
+        },
+        {
+          "id": "84Ig6VI76",
+          "name": "slider.PNG 2",
+          "filePath": "plasmic/plasmic_project/images/sliderPng2.png"
+        },
+        {
+          "id": "KV5nbQEIs",
+          "name": "slider.PNG 3",
+          "filePath": "plasmic/plasmic_project/images/sliderPng3.png"
+        }
+      ],
+      "codeComponents": [
+        {
+          "id": "hyDBr7CPJK",
+          "name": "Input",
+          "componentImportPath": "antd"
+        },
+        {
+          "id": "gX56ITh79B",
+          "name": "DatePicker",
+          "componentImportPath": "antd"
+        },
+        {
+          "id": "TtOPbR1oxA",
+          "name": "regButton",
+          "componentImportPath": "antd"
+        },
+        {
+          "id": "w5SxoI8nlE",
+          "name": "Slider",
+          "componentImportPath": "antd"
+        }
+      ],
+      "projectApiToken": "L4u8dOHFqisJuPoNKaAMP1x0JjvdkiY92bCyXLMSwtmUmpYfoWRaQP5CPkey8ZDLrUpwURsBS3J3gzeQQOQ"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "vr3o4CXsD-",
+        "name": "Screen",
+        "projectId": "aFHTma5a2mQLN8unP5zrW8",
+        "contextFilePath": "plasmic/plasmic_project/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.158",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.158/dist/plasmic.schema.json"
+}

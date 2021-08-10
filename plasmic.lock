@@ -1,0 +1,78 @@
+{
+  "projects": [
+    {
+      "projectId": "aFHTma5a2mQLN8unP5zrW8",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "vr3o4CXsD-",
+          "checksum": "0931500955d7b3988b862c9854638a54"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "e8QGMoWap5",
+          "checksum": "1ccc4f4b671eb15d8bbd6c388297c61a"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "e8QGMoWap5",
+          "checksum": "1ccc4f4b671eb15d8bbd6c388297c61a"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "O4yp26B4kR",
+          "checksum": "17f50571c9b124cf7ae3700f98ebda8b"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "O4yp26B4kR",
+          "checksum": "17f50571c9b124cf7ae3700f98ebda8b"
+        },
+        {
+          "type": "image",
+          "assetId": "tcVLIZhVv",
+          "checksum": "599e8466264d24ccb61563b4fadee78f"
+        },
+        {
+          "type": "image",
+          "assetId": "5nvLSjX6T",
+          "checksum": "cdd4b92e5981c8143cf2ec56f50c5c3e"
+        },
+        {
+          "type": "image",
+          "assetId": "xNht8m1yA",
+          "checksum": "39f4ce8a6f5d80fc3ff7d7e5a3d87dae"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "1DTknJ06MB",
+          "checksum": "78a06a0ccab305042a7d0fbefa958a29"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "1DTknJ06MB",
+          "checksum": "78a06a0ccab305042a7d0fbefa958a29"
+        },
+        {
+          "type": "image",
+          "assetId": "84Ig6VI76",
+          "checksum": "52ebc01744598a62df4b9d6579234450"
+        },
+        {
+          "type": "image",
+          "assetId": "KV5nbQEIs",
+          "checksum": "efb89f088e2eed11a5ad9090c0a2ea78"
+        },
+        {
+          "assetId": "aFHTma5a2mQLN8unP5zrW8",
+          "type": "projectCss",
+          "checksum": "8004d139bc03b6c85e1025c5275b95b4"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "0.1.158"
+}
